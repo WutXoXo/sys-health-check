@@ -349,3 +349,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 src/SysHealthCheck.WebApp/appsettings.Development.json
+src/SysHealthCheck.WebApi/appsettings.Development.json
